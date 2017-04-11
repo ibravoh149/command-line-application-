@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "'a simple CLI application that consumes public API using http client library' ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "ibrahim iliyas",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
